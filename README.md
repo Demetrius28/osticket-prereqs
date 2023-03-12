@@ -242,3 +242,21 @@ Hopefully it was a success and you should see the osTicket image in the browser.
 
 - In the Browser, click "Continue" to continue the setup of osTicket
 - Enter Name and default email (receives email from customers)
+
+
+</p>
+<br />
+<hr>
+<p>
+<h2>Step 15: Install HeidiSQL</h2>
+<img src="https://i.imgur.com/kUOUefN.png" height="40%" width="40%" alt="HeidiSQL"/> <img src="https://i.imgur.com/Jtb0GuD.png" height="40%" width="40%" alt="HeidiSQL database"/></p>
+<p>
+<h3>Step 15: Install HeidiSQL</h3>
+
+- From the Installation Files, download and install HeidiSQL
+- Click to Open file
+- Accept the license agreement and continue to finish installation 
+- Within HeidiSQL, Create a new session by clicking on New
+- Then assign the username and password: (root); 
+- Connect to the session
+- Create a database called "osTicket"
