@@ -121,4 +121,14 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <hr>
 <p>
   <h2>Step 9: Register PHP</h2>
-  
+  <img src="https://i.imgur.com/HIRzAGh.png" height="40%" width="40%" alt="Register new PHP"/> <img src="https://i.imgur.com/0YaCkqe.png" height="40%" width="40%" alt="Register new PHP"/>
+</p>
+<p>
+<h3>Step 9: Register PHP</h3>
+
+- Search for IIS Select IIS App, and choose to "Run as Administrator" 
+- Select PHP Manager
+- Click "Register new PHP Version"
+- Enter the path to PHP executable file by entering: C:\PHP and clicking the box with 3 dots (...) then select the pathway- PHP-CGi, Click Open, and Ok
+- Restart IIS by clicking the VM and then "Restart"
+
