@@ -47,6 +47,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<h2>Step 3: Install PHP Manager</h2>
+
+- From the Installation files, Download and install PHP Manager for IIS (PHPMangerForLLS_V1.5.0msl)
+(If you receive an error "this file type might be dangerous", click to "download anyway")
+- After file has downloaded, choose "Open file"; click "next"; "I Agree"; "Next"; "Close"
+</p>
+<br /><hr>
+<h2>Step 4: Install Rewrite Module</h2>
+
+- From the Installation Files, Download and Install the "Rewrite Module" (rewrite_amd64_en-US.msl)
+(If you receive an error "this file type might be dangerous", click to "download anyway")
+- After file has downloaded, choose "Open file"; accept license agreement; Install; Finish
+</p>
+<br />
+<hr>
+<p>
+<h2>Step 5: Create PHP Directory</h2>
+<img src="https://i.imgur.com/hmXl0g8.png" height="80%" width="80%" alt="Enable IIS"/>
+</p>
+<p>
+<h3>Step 5: Create PHP Directory</h3>
+
+- Click on the "File Explorer" icon
+- Choose "This PC"
+- Type or Choose "C:"
+- Right Click to choose to add a "New" "Folder"
+- Name this folder "PHP"
+
+</p>
+<br /><hr>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -54,3 +84,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
