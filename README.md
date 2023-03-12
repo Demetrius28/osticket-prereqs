@@ -98,4 +98,27 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <br />
 <hr>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Step 7: Install VC_redist.x86.exe</h2>
+
+- From the Installation Files, Download and install VC_redist.x86.exe.
+- Click to "Open File" (If you receive an error "this file type might be dangerous", click to "download anyway")
+- Click to agree to the license; "Install" and "Close"
+</p>
+<br />
+<hr>
+<p>
+  <h2>Step 8: Install MySQL</h2>
+
+- From the Installation Files, Download and install MySQL5.5.62 (mysql-5.5.62-win32.msl)
+- Click to "Open File"
+- Accept the license
+- Continue through the typical set up to finish installation and yes to launch wizard
+- Modify Security Settings:(Choose your own password and write it down for future reference!)
+-"Execute"; "Finish"
+
+</p>
+<br />
+<hr>
+<p>
+  <h2>Step 9: Register PHP</h2>
+  
