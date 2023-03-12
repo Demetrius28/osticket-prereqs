@@ -150,3 +150,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <hr>
+
+<p>
+<h2>Step 11: Enable Extensions in IIS</h2>
+
+- From IIS
+- "Sites"
+- "Default"
+- "osTicket"
+- "PHP Manager"
+- "Enable or Disable an Extension"
+- Enable the following: 
+  - php_imap.dll
+  - php_intl.dll
+  - php_opcache.dll
