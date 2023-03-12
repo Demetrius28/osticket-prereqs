@@ -260,3 +260,35 @@ Hopefully it was a success and you should see the osTicket image in the browser.
 - Then assign the username and password: (root); 
 - Connect to the session
 - Create a database called "osTicket"
+
+</p>
+<br />
+<hr>
+<p>
+<h2>Step 16: Finish Setting up osTicket in the Browser</h2>
+<img src="https://i.imgur.com/84AveAr.png" height="80%" width="80%" alt="extract osticket"/> 
+</p>
+<p>
+<h3>Step 16: Finish Setting up osTicket in the Browser</h3>
+
+- Continue in the Browser to comlete the osTicket Set up process.
+- Write down admin names, emails and passwords for reference
+- MySQL database: osTicket
+- mySqL Username: root
+- MySqL Password: 
+- Click "Install Now"
+
+And hopefully your help desk installation is successful
+</p>
+<br />
+<hr>
+<p>
+<h2>Step 17: Final File Clean Up</h2> 
+</p>
+<p>
+- Delete C:\inetpub\wwwroot\osTicket\setup
+- Set Permissions to "Read" only at c:\inetpub/wwwroot/osTicket/include/lost-config.php
+</p>
+<br />
+
+<hr>
