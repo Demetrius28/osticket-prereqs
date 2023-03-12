@@ -78,10 +78,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br /><hr>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+
 </p>
 <br />
 <p>
@@ -132,3 +132,21 @@ It is important to take care of the patient, to be followed by the doctor, but i
 - Enter the path to PHP executable file by entering: C:\PHP and clicking the box with 3 dots (...) then select the pathway- PHP-CGi, Click Open, and Ok
 - Restart IIS by clicking the VM and then "Restart"
 
+</p>
+<br />
+<hr>
+<p>
+<h2>Step 10: Install osTicket</h2>
+<img src="https://i.imgur.com/MO9xJoA.png" height="80%" width="80%" alt="extract osticket"/> 
+</p>
+<p>
+<h3>Step 10: Install osTicket</h3>
+
+- From the Installation Files, Download and Install os Ticket v1.15.8
+- Click "Open File" 
+- Extract "upload" folder to C:\inetpub\wwwroot 
+- Rename "upload" folder to "osTicket" 
+- Open IIS and Restart again
+</p>
+<br />
+<hr>
