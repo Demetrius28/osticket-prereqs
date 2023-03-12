@@ -164,3 +164,54 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - php_imap.dll
   - php_intl.dll
   - php_opcache.dll
+
+
+</p>
+<br />
+<hr>
+<p><h2>Step 12: Browse to osTicket</h2>
+<img src="https://i.imgur.com/d72APDC.png" height="40%" width="40%" alt="extract osticket"/> <img src="https://i.imgur.com/0YaCkqe.png" height="40%" width="40%" alt="extract osticket"/> 
+</p>
+<p>
+<h3>Step 12: Browse to osTicket</h3>
+
+- From IIS, click "Sites"
+- "Default Web Site"
+- "osTicket"
+- Click "Browse *:80" on the right.
+
+Hopefully it was a success and you should see the osTicket image in the browser.
+
+
+</p>
+<br />
+<hr>
+
+<p>
+<h2>Step 13: Rename ost-config.php and assign permissions</h2>
+<img src="https://i.imgur.com/SQpZktP.png" height="80%" width="80%" alt="extract osticket"/> 
+</p>
+<p>
+<h3>Step 13: Rename ost-config.php and assign permissions</h3>
+
+- Navigate to c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- Right Click to Rename file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+- Right click on the file name
+- "Properties"
+- "Security"
+- "Advanced"
+- "Disable Inheritance"
+- "Remove all Inherited properties from this item"
+- Click "Add"
+- "Select a Principle" 
+- Enter "Everyone" in the object name box
+- Click "Check Names"
+- "OK"; "Apply";choose "full control"; "ok"
+
+
+</p>
+<br />
+<hr>
+
+<p>
