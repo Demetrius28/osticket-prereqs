@@ -215,3 +215,30 @@ Hopefully it was a success and you should see the osTicket image in the browser.
 <hr>
 
 <p>
+<h3>Step 13: Rename ost-config.php and assign permissions</h3>
+
+- Navigate to c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- Right Click to Rename file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+- Right click on the file name
+- "Properties"
+- "Security"
+- "Advanced"
+- "Disable Inheritance"
+- "Remove all Inherited properties from this item"
+- Click "Add"
+- "Select a Principle" 
+- Enter "Everyone" in the object name box
+- Click "Check Names"
+- "OK"; "Apply";choose "full control"; "ok"
+
+
+</p>
+<br />
+<hr>
+
+<p>
+<h2>Step 14: Continue osTicket Installation</h2>
+
+- In the Browser, click "Continue" to continue the setup of osTicket
+- Enter Name and default email (receives email from customers)
